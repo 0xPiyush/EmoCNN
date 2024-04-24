@@ -1,0 +1,8 @@
+tensorflow
+onnxruntime
+tf2onnx
+pandas
+numpy
+seaborn
+keras
+opencv
